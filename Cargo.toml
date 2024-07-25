@@ -1,0 +1,10 @@
+[package]
+name = "utils_bookmarks_to_table"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+html5ever = "0.25.1"
+kuchiki = "0.8.1"
+dirs = "3.0"
+shellexpand = "2.1.0"
